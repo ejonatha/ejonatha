@@ -40,6 +40,6 @@
 
 ###
 
-<p align="left">Gmail: erikjonatha.xii@gmail.com<br>LinkedIn: www.linkedin.com/in/erik-jonatha</p>
+<p align="left">Gmail: erikjonatha.xii@gmail.com<br>LinkedIn: https://www.linkedin.com/in/erik-jonatha</p>
 
 ###
